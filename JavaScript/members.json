@@ -1,0 +1,28 @@
+{
+"listMembers": [
+    {
+      "id": 1,
+      "Email": "Gustav@gmail.com",
+      "name": "Gustav",
+      "password": "199"
+    },
+    {
+      "id": 2,
+      "Email": "Therese@gmail.com",
+      "name": "Therese",
+      "password": "211"
+    },
+    {
+      "id": 3,
+      "Email": "Filip@gmail.com",
+      "name": "Filip",
+      "password": "244"
+    },
+    {
+      "id": 4,
+      "Email": "Rasmus@gmail.com",
+      "name": "Rasmus",
+      "password": "244"
+    }
+  ]
+}

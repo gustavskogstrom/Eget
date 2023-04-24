@@ -1,0 +1,77 @@
+/* .error {
+    color: red;
+} 
+
+.box {
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+.edit {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: var(--seethrue-light-color);
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.42) -18px 20px 16px 0px;
+    border-radius: 10px;
+    padding: 10% 40px
+}
+.Kontakt{
+    color: var(--text-color);
+}
+
+
+.second_content {
+    display: none;
+}
+
+.third_content {
+    display: none;
+}
+
+
+
+.form-content.loggedin {
+    display: none;
+}
+
+.second_content.loggedin {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 1%;
+    background-color: var(--light-color);
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.42) -18px 20px 16px 0px;
+    border-radius: 10px;
+}
+
+.third_content.logedin{
+    display: none;
+}
+
+
+.form-content.create{
+    display: none;
+}
+
+.second_content.create{
+    display: none;
+}
+
+.third_content.create{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding: 1%;
+    background-color: var(--light-color);
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.42) -18px 20px 16px 0px;
+    border-radius: 10px;
+} */
