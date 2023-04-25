@@ -1,8 +1,8 @@
-const workout = document.querySelector("#workouts-data")
+const Info = document.querySelector('#Workouts-list')
 
 const listWorkouts = async () => {
     
-    const url = "http://localhost:3000/workouts";
+    const url = 'http://localhost:3000/Workouts';
 
 
     const response = await fetch(url);
@@ -13,14 +13,14 @@ const listWorkouts = async () => {
         const data = await response.json();
         console.log(data);
     
-        data.forEach((workout) => {
-        workout.insertAdjacentHTML(
+        data.forEach((Workouts) => {
+        Info.insertAdjacentHTML(
         "beforeend",
         `<div>
-        <p>${workout.muscle}</p>
-        <p>${workout.name}</p>
-        <p>${workout.reps}</p>
-        <p>${workout.description}</p>
+        <p>${Workouts.muscle}</p>
+        <p>${Workouts.name}</p>
+        <p>${Workouts.reps}</p>
+        <p>${Workouts.description}</p>
         </div>`
         );
         });
