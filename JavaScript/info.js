@@ -1,11 +1,8 @@
-// Skapa ett main
-const main = document.createElement('main');
+// // Create the section element
+// const main = document.createElement('section');
 
-// Lägg till lite textinnehåll
-// main.textContent = "Huvudinnehållet på sidan";
+// // Set the ID attribute
+// main.setAttribute('id', 'your-section-id');
 
-// Hämta referensen till body-elementet
-const body = document.querySelector('body');
-
-// Lägg till main-elementet till body-elementet
-body.appendChild(main);
+// // Add the section element to the document body
+// document.body.appendChild(section);

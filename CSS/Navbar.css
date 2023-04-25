@@ -1,4 +1,4 @@
-Navbar {
+nav {
     display: flex;
     flex-direction: row;
 
@@ -20,20 +20,17 @@ Navbar {
     border-bottom: solid 2px var(--primary-color);
     }*/
     
-    Navbar a {
+    nav a {
     color: var(--light-color);
     padding: 0.8rem 0.5rem;
     margin: 0 0.4rem;
     font-size: 1.25rem;
     }
     
-    Navbar ul {
+    nav ul {
     display: flex;
     }
     
-    Navbar .logo {
+    nav .logo {
     font-weight: 400;
     }
-
-    @media (max-width: 500px) {}
-    
