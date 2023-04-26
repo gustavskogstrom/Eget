@@ -6,6 +6,27 @@
     align-items: center;
     box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.42) -18px 20px 16px 0px;
     border-radius: 10px;
-    
-    
+}
+.figure{
+    background-image: url(/img/white_muskel.png);
+    display: flex;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    padding: 1%;
+    background-color: var(--light-color);
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.42) -18px 20px 16px 0px;
+    border-radius: 10px;
+    height: 60vh;
+    width: 25vw;
+}
+
+.image {
+    height: 100vh;
+    background-image: url(/img/gym3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: var(--dark-color);
+    background-color: var(--background-color);
 }

@@ -4,15 +4,7 @@
     box-sizing: border-box;
 }
 
-body {
-    height: 100vh;
-    background-image: url(/img/gym3.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    color: var(--dark-color);
-    background-color: var(--background-color);
-}
+
 main {
     display: flex;
     flex-direction: column;
@@ -20,15 +12,7 @@ main {
     align-items: center;
     height: 100vh;
 }
-img{
-    display: flex;
-    flex-direction: column;
-    padding: 1%;
-    background-color: var(--light-color);
-    align-items: center;
-    box-shadow: rgba(0, 0, 0, 0.5) 0px 19px 38px, rgba(0, 0, 0, 0.42) -18px 20px 16px 0px;
-    border-radius: 10px;
-}
+
 
 h1,
 h2 {
