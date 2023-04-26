@@ -22,15 +22,15 @@
     background-color: red;
 } */
 
-/* .forearmes {
-    position: absolute;
+.forearmes {
+    position: relative;
     height: 14%;
     width: 38%;
     left: 5%;
     top: 34.5%;
     z-index: 6;
     background-color: red;
-} */
+}
 
 /* .biceps {
     position: absolute;
@@ -184,7 +184,7 @@
 
 
 
-/* .abdominals:hover,
+.abdominals:hover,
 .obliques:hover,
 .forearmes:hover,
 .biceps:hover,
@@ -206,4 +206,4 @@
 .Hamstrings:hover,
 .calves:hover {
     background-color: tomato;
-} */
+}
