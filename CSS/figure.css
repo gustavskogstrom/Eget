@@ -2,106 +2,106 @@
     position: relative;
 }
 
-.abdominals {
+/* .abdominals {
     position: absolute;
     height: 21%;
     width: 9.4%;
     left: 19%;
     top: 30%;
     z-index: 10;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.obliques {
+/* .obliques {
     position: absolute;
     height: 16%;
     width: 18.2%;
     left: 14.5%;
     top: 30%;
     z-index: 8;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.forearmes {
+/* .forearmes {
     position: absolute;
     height: 14%;
     width: 38%;
     left: 5%;
     top: 34.5%;
     z-index: 6;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.biceps {
+/* .biceps {
     position: absolute;
     height: 11%;
     width: 31%;
     left: 8%;
     top: 25.5%;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.shoulders {
+/* .shoulders {
     position: absolute;
     height: 8%;
     width: 31.5%;
     left: 8%;
     top: 18%;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.traps {
+/* .traps {
     position: absolute;
     height: 5%;
     width: 21%;
     left: 13%;
     top: 14%;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.chest {
+/* .chest {
     position: absolute;
     height: 11.5%;
     width: 21.5%;
     left: 13%;
     top: 18.5%;
     z-index: 11;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.quads {
+/* .quads {
     position: absolute;
     height: 23.5%;
     width: 21.5%;
     left: 13%;
     top: 46%;
     z-index: 7;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
 /*''''''''''' back '''''''''''''''''''*/
 
-.traps-back {
+/* .traps-back {
     position: absolute;
     height: 8.5%;
     width: 20.5%;
     left: 65%;
     top: 10%;
     z-index: 8;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.shoulders-back {
+/* .shoulders-back {
     position: absolute;
     height: 6.5%;
     width: 31%;
     left: 60%;
     top: 18%;
     z-index: 6;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.mid-back {
+/* .mid-back {
     position: absolute;
     height: 10.5%;
     width: 13%;
@@ -109,29 +109,29 @@
     top: 17%;
     transform: rotate(-45DEG);
     z-index: 7;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.lats {
+/* .lats {
     position: absolute;
     height: 16.5%;
     width: 23%;
     left: 64%;
     top: 21%;
     z-index: 6;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.triceps {
+/* .triceps {
     position: absolute;
     height: 12.5%;
     width: 31%;
     left: 60%;
     top: 24%;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.lower-back {
+/* .lower-back {
     position: absolute;
     height: 9.5%;
     width: 12%;
@@ -139,53 +139,52 @@
     top: 34%;
     transform: rotate(-45DEG);
     z-index: 8;
-    opacity: 0;
+    background-color: red;
+} */
 
-}
-
-.forearmes-back {
+/* .forearmes-back {
     position: absolute;
     height: 10.5%;
     width: 38%;
     left: 57%;
     top: 36%;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.Glutes {
+/* .Glutes {
     position: absolute;
     height: 11.5%;
     width: 22%;
     left: 64%;
     top: 42%;
     z-index: 9;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.Hamstrings {
+/* .Hamstrings {
     position: absolute;
     height: 13.5%;
     width: 22%;
     left: 64%;
     top: 53%;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
-.calves {
+/* .calves {
     position: absolute;
     height: 15.5%;
     width: 21%;
     left: 65%;
     top: 67%;
-    opacity: 0;
-}
+    background-color: red;
+} */
 
 
 
 
 
 
-.abdominals:hover,
+/* .abdominals:hover,
 .obliques:hover,
 .forearmes:hover,
 .biceps:hover,
@@ -207,4 +206,4 @@
 .Hamstrings:hover,
 .calves:hover {
     background-color: tomato;
-}
+} */

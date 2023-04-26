@@ -17,8 +17,8 @@ const listWorkouts = async () => {
         Info.insertAdjacentHTML(
         "beforeend",
         `<div>
+        <h3>${Workouts.name}</h3>
         <p>${Workouts.muscle}</p>
-        <p>${Workouts.name}</p>
         <p>${Workouts.reps}</p>
         <p>${Workouts.description}</p>
         </div>`
@@ -27,3 +27,5 @@ const listWorkouts = async () => {
     }
 };
 listWorkouts();
+
+// json-server --watch Workouts.json
