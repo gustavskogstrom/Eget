@@ -17,8 +17,7 @@ const listWorkouts = async () => {
         Info.insertAdjacentHTML(
         "beforeend",
         `<div>
-        <h3>${Workouts.name}</h3>
-        <p>${Workouts.muscle}</p>
+        <h4>${Workouts.name} Muscle: ${Workouts.muscle}</h4>
         <p>${Workouts.reps}</p>
         <p>${Workouts.description}</p>
         </div>`
